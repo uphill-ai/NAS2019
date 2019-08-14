@@ -13,7 +13,7 @@ joseph dot porter@digitalreasoning dot com
 
 ### Setup (commands to enter are italicized)
 
-Basically, you'll need Python 3 and some data.  You might also need Google Chrome.  Operating system type and version shouldn't matter, as long as you can run a recent version of Python.
+Basically, you'll need Python 3 and some data (included here).  You might also need Google Chrome.  Operating system type and version shouldn't matter, as long as you can run a recent version of Python.
 
 You should have a recent processor and at least 8GB of RAM.
 
