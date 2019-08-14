@@ -11,9 +11,11 @@ If you have trouble with getting set up ahead of time, please feel free to conta
 
 joseph dot porter@digitalreasoning dot com
 
+Stay tuned to this space for updates -- More interesting things to come!
+
 ### Setup (commands to enter are italicized)
 
-Basically, you'll need Python 3 and some data.  You might also need Google Chrome.  Operating system type and version shouldn't matter, as long as you can run a recent version of Python.
+Basically, you'll need Python 3 and some data (included here).  You might also need Google Chrome.  Operating system type and version shouldn't matter, as long as you can run a recent version of Python.
 
 You should have a recent processor and at least 8GB of RAM.
 
@@ -24,9 +26,9 @@ You should have a recent processor and at least 8GB of RAM.
     1. Open a terminal and navigate to the directory that you downloaded above.
     1. *conda create -n summit python==3.7*
     1. *conda activate summit*
-    1. *pip install -r requirements.txt*
     1. *cd bert-sklearn*
     1. *pip install .*
+    1. *cd ..*
     1. *jupyter notebook*
 1. Open the included notebook file in the browser window that pops up: Competitor-Products.ipynb
 1. It will save you time to run most of the notebook once beforehand (more things are downloaded in the background), but that's not strictly necessary.  If you do try it and run into problems, please contact me.
