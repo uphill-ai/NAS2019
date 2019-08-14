@@ -11,6 +11,8 @@ If you have trouble with getting set up ahead of time, please feel free to conta
 
 joseph dot porter@digitalreasoning dot com
 
+Stay tuned to this space for updates -- More interesting things to come!
+
 ### Setup (commands to enter are italicized)
 
 Basically, you'll need Python 3 and some data (included here).  You might also need Google Chrome.  Operating system type and version shouldn't matter, as long as you can run a recent version of Python.
