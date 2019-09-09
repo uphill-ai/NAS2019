@@ -26,6 +26,7 @@ You should have a recent processor and at least 8GB of RAM.
     1. Open a terminal and navigate to the directory that you downloaded above.
     1. *conda create -n summit python==3.7*
     1. *conda activate summit*
+    1. *pip install -r requirements.txt*
     1. *cd bert-sklearn*
     1. *pip install .*
     1. *cd ..*
