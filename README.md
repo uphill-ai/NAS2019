@@ -39,7 +39,7 @@ You should have a recent processor and at least 8GB of RAM.
 bert-sklearn: Copy of the bert-sklearn repository. See above for installation.
 data:
 * judge-cleaned-up.csv: Twitter Brands and Product Emotions Data
-* judge-cleaned-up.csv: Twitter Brands and Product Emotions Data (preprocessed)
+* judge-cleaned-up2.csv: Twitter Brands and Product Emotions Data (preprocessed)
 * judge-expanded2.csv: Twitter Brands and Product Emotions, augmented with negatives from Sentiment140 for Apple and Google products, and sampled to reduce neturals to get a balanced data set.
 * sent140.zip: Kaggle sentiment 140 data
 
