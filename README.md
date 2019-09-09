@@ -33,3 +33,19 @@ You should have a recent processor and at least 8GB of RAM.
     1. *jupyter notebook*
 1. Open the included notebook file in the browser window that pops up: Competitor-Products.ipynb
 1. It will save you time to run most of the notebook once beforehand (more things are downloaded in the background), but that's not strictly necessary.  If you do try it and run into problems, please contact me.
+
+### Files and Directories
+
+bert-sklearn: Copy of the bert-sklearn repository. See above for installation.
+data:
+* judge-cleaned-up.csv: Twitter Brands and Product Emotions Data
+* judge-cleaned-up.csv: Twitter Brands and Product Emotions Data (preprocessed)
+* judge-expanded2.csv: Twitter Brands and Product Emotions, augmented with negatives from Sentiment140 for Apple and Google products, and sampled to reduce neturals to get a balanced data set.
+* sent140.zip: Kaggle sentiment 140 data
+
+#### Jupyter Notebooks
+Add-Negative Data.ipynb: Create balanced data set from Twitter Brands and Product Emotions data and Sentiment 140.
+Competitor-Products-Imbalance-2.ipynb: This is the best starting point for the model - uses balanced data to get a decent classifier.
+Competitor-Products-Imbalance.ipynb: Product sentiment classifier exhibiting imbalance issues.
+Competitor-Products-Learning Rates.ipynb: Demonstrate slow and fast learning rates
+Competitor-Products.ipynb: Original notebook for getting set up and making sure the models are downloaded.
