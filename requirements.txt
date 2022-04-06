@@ -10,7 +10,7 @@ jmespath==0.9.4
 joblib==0.13.2
 nbconvert==5.5.0
 notebook==6.4.10
-numpy==1.17.0
+numpy==1.21.0
 pandas==0.25.0
 python-dateutil==2.8.0
 pytz==2019.2
