@@ -8,7 +8,7 @@ ftfy==5.6
 idna==2.8
 jmespath==0.9.4
 joblib==0.13.2
-nbconvert==5.5.0
+nbconvert==6.3.0
 notebook==6.4.10
 numpy==1.21.0
 pandas==0.25.0
