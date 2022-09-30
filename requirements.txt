@@ -7,7 +7,7 @@ docutils==0.15.2
 ftfy==5.6
 idna==2.8
 jmespath==0.9.4
-joblib==0.13.2
+joblib==1.2.0
 nbconvert==5.5.0
 notebook==6.4.10
 numpy==1.21.0
